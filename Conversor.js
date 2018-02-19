@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 const request_1 = require("request");
-const types_currencylayer_1 = require("./../lib/model/types-currencylayer");
+const types_currencylayer_1 = require("types-currencylayer");
 const fs = require("fs");
 class Conversor {
     constructor() {
